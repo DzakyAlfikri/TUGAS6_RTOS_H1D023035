@@ -1,4 +1,4 @@
-# Penjelasan Kode Program RTOS.ino
+# Penjelasan Kode Program
 
 Program ini menggunakan konsep RTOS (Real-Time Operating System) dengan beberapa task yang bekerja secara bersamaan dan saling berkomunikasi menggunakan queue.
 
